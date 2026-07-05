@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 60">
+  <!-- SVRN wordmark: Jost 850, #c30000, high kern. Embedded font for universal rendering. -->
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Jost:wght@850&amp;display=swap');
+    </style>
+  </defs>
+  <text x="0" y="48" font-family="Jost, sans-serif" font-weight="850" font-size="56" fill="#c30000" letter-spacing="16">SVRN</text>
+</svg>
